@@ -1,0 +1,11 @@
+{
+    "description": "thienmdp.github.io",
+    "repo": "https://github.com/thienmdp/thienmdp.github.io",
+    "owner": {
+        "username": "thienmdp",
+        "email": "thienmai1312@gmail.com",
+    },
+    "record": {
+        "CNAME": "thienmdp.github.io"
+    }
+}
